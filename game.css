@@ -1,0 +1,18 @@
+* {
+	/* setting the margin to auto and background colour to #b2ec3 */
+	margin: auto;
+	background-color: #b2bec3;
+}
+#canvas {
+	/* setting display to grid, align content to center and border to 0px */
+	display: grid;
+	/* margin:10% auto; */
+	align-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	/* margin: 20px; */
+	border: 0px;
+	/* margin-top: -100px; */
+
+	background-color: #2d3436;
+}

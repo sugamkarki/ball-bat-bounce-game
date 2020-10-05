@@ -1,0 +1,1 @@
+# This is a game made by using vanilla JAVASCRIPT on a canvas
